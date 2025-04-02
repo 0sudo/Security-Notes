@@ -1,25 +1,27 @@
 # 🌐 Useful Security Resources  
 
-Here are some amazing websites that can help with Web, API, Network, and Mobile security research.  
+A collection of useful websites, tools, and learning resources for **Web, API, Network, and Mobile Security**.  
 
 ---
 
 ## 🔹 **Web Security Resources**  
 | Website | Description |
 |---------|------------|
-| [Web Security Academy](https://portswigger.net/web-security) | Free training by Burp Suite (SQLi, XSS, SSRF, etc.) |
-| [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | Collection of pentesting payloads |
-| [XSS Payloads](https://xsshunter.com/) | Automated XSS payload testing |
-| [Bug Bounty Notes](https://www.bugbountynotes.com/) | Tips, payloads, and bug bounty methodologies |
+| [PortSwigger Web Security Academy](https://portswigger.net/web-security) | Free web security training |
+| [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | A collection of hacking payloads |
+| [XSS Hunter](https://xsshunter.com/) | Automated XSS payload finder |
+| [Bug Bounty Notes](https://www.bugbountynotes.com/) | Tips, payloads, and methodologies for bug bounty |
+| [CORS Exploitation](https://portswigger.net/web-security/cors) | Learn how to test and exploit CORS issues |
 
 ---
 
 ## 🔹 **API Security Resources**  
 | Website | Description |
 |---------|------------|
-| [API Security Academy](https://portswigger.net/web-security/api-security) | Free API pentesting course |
-| [GraphQL Security](https://lab.wallarm.com/graphql-security-complete-guide/) | Guide to testing GraphQL APIs |
+| [API Security Academy](https://portswigger.net/web-security/api-security) | Free API security training |
+| [GraphQL Security Guide](https://lab.wallarm.com/graphql-security-complete-guide/) | Guide to testing GraphQL APIs |
 | [SecLists API Wordlists](https://github.com/danielmiessler/SecLists) | API fuzzing wordlists |
+| [Broken Object Level Authorization (BOLA)](https://portswigger.net/web-security/access-control/bolas) | API access control vulnerabilities |
 
 ---
 
@@ -29,27 +31,21 @@ Here are some amazing websites that can help with Web, API, Network, and Mobile 
 | [Nmap Cheat Sheet](https://highon.coffee/blog/nmap-cheat-sheet/) | Common Nmap scanning commands |
 | [Wireshark Labs](https://wiki.wireshark.org/SampleCaptures) | Sample PCAP files for network analysis |
 | [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/) | Free Metasploit training |
+| [Pentest Tools](https://pentest-tools.com/) | Online network pentesting tools |
 
 ---
 
 ## 🔹 **Mobile Security Resources**  
 | Website | Description |
 |---------|------------|
-| [Android Security Guide](https://mobile-security.gitbook.io/mobile-security-testing-guide/) | Mobile Security Testing Guide |
+| [Mobile Security Testing Guide](https://mobile-security.gitbook.io/mobile-security-testing-guide/) | Android & iOS pentesting guide |
 | [iOS App Security](https://owasp.org/www-project-ios-security/) | OWASP iOS Security Project |
 | [Frida & Objection](https://github.com/nowsecure/objection) | Runtime mobile app analysis |
+| [Android Debug Bridge (ADB)](https://developer.android.com/studio/command-line/adb) | Android debugging and pentesting |
 
 ---
 
-### **📌 How to Use This?**  
-- Visit these websites to **learn, practice, and improve your skills**  
-- Add new sites as you discover them  
-
----
-
-### 🚀 **Next Steps:**  
-✅ **Create `Useful-Resources.md` in your repo & paste this in**  
-✅ **Commit & push it to GitHub**  
-✅ **Let me know once updated—I’ll review it for improvements!**  
-
-🔥 This will make your repo **super useful for others too!** 😃
+## 🔹 **Bug Bounty & CTF Resources**  
+| Website | Description |
+|---------|------------|
+| [Bugcrowd University](https://
