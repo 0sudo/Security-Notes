@@ -1,0 +1,55 @@
+# 🌐 Useful Security Resources  
+
+Here are some amazing websites that can help with Web, API, Network, and Mobile security research.  
+
+---
+
+## 🔹 **Web Security Resources**  
+| Website | Description |
+|---------|------------|
+| [Web Security Academy](https://portswigger.net/web-security) | Free training by Burp Suite (SQLi, XSS, SSRF, etc.) |
+| [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | Collection of pentesting payloads |
+| [XSS Payloads](https://xsshunter.com/) | Automated XSS payload testing |
+| [Bug Bounty Notes](https://www.bugbountynotes.com/) | Tips, payloads, and bug bounty methodologies |
+
+---
+
+## 🔹 **API Security Resources**  
+| Website | Description |
+|---------|------------|
+| [API Security Academy](https://portswigger.net/web-security/api-security) | Free API pentesting course |
+| [GraphQL Security](https://lab.wallarm.com/graphql-security-complete-guide/) | Guide to testing GraphQL APIs |
+| [SecLists API Wordlists](https://github.com/danielmiessler/SecLists) | API fuzzing wordlists |
+
+---
+
+## 🔹 **Network Security Resources**  
+| Website | Description |
+|---------|------------|
+| [Nmap Cheat Sheet](https://highon.coffee/blog/nmap-cheat-sheet/) | Common Nmap scanning commands |
+| [Wireshark Labs](https://wiki.wireshark.org/SampleCaptures) | Sample PCAP files for network analysis |
+| [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/) | Free Metasploit training |
+
+---
+
+## 🔹 **Mobile Security Resources**  
+| Website | Description |
+|---------|------------|
+| [Android Security Guide](https://mobile-security.gitbook.io/mobile-security-testing-guide/) | Mobile Security Testing Guide |
+| [iOS App Security](https://owasp.org/www-project-ios-security/) | OWASP iOS Security Project |
+| [Frida & Objection](https://github.com/nowsecure/objection) | Runtime mobile app analysis |
+
+---
+
+### **📌 How to Use This?**  
+- Visit these websites to **learn, practice, and improve your skills**  
+- Add new sites as you discover them  
+
+---
+
+### 🚀 **Next Steps:**  
+✅ **Create `Useful-Resources.md` in your repo & paste this in**  
+✅ **Commit & push it to GitHub**  
+✅ **Let me know once updated—I’ll review it for improvements!**  
+
+🔥 This will make your repo **super useful for others too!** 😃
