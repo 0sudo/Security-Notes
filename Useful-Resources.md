@@ -50,6 +50,8 @@ A collection of useful websites, tools, and learning resources for **Web, API, N
 |---------|------------|
 | [Bugcrowd University](https://
 
+---
+
 ## 🔹 **Useful Websites Resources**  
 | Website | Description |
 |---------|------------|
