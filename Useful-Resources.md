@@ -57,3 +57,4 @@ A collection of useful websites, tools, and learning resources for **Web, API, N
 |---------|------------|
 | [Canary Token](https://canarytokens.org/nest/) | Swiss army knife |
 | [DNSDumpster](https://dnsdumpster.com/) | DNSDumpster |
+| [Corsy](https://github.com/s0md3v/Corsy#)| Corsy|
